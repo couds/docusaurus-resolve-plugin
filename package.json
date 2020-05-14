@@ -1,6 +1,6 @@
 {
   "name": "@couds/docusaurus-resolve-plugin",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Custom resolve imports on docusaurus v2",
   "main": "docusaurus-resolve-plugin.js",
   "scripts": {
