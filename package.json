@@ -1,0 +1,25 @@
+{
+  "name": "@couds/docusaurus-resolve-plugin",
+  "version": "0.0.0",
+  "description": "Custom resolve imports on docusaurus v2",
+  "main": "docusaurus-resolve-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/couds/docusaurus-resolve-plugin.git"
+  },
+  "keywords": [
+    "docusaurus",
+    "docusaurus-plugin",
+    "webpack",
+    "custom imports"
+  ],
+  "author": "@couds",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/couds/docusaurus-resolve-plugin/issues"
+  },
+  "homepage": "https://github.com/couds/docusaurus-resolve-plugin#readme"
+}
